@@ -3,7 +3,7 @@
 #la temperatura máxima para prepararlo a la copa.
 import math
 t = float()
-t0 = float(input("Inique la temperatura original del huevo\n"))
+t0 = float(input("Indique la temperatura original del huevo\n"))
 
 m = 63
 c = 3.7
